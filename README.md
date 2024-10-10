@@ -1,4 +1,4 @@
-# HIGH-YIELD ALTERNATIVE INVESTMENT
+# 20APY - HIGH-YIELD ALTERNATIVE INVESTMENT
 # EN
 20APY is a DeFi startup that issues a stablecoin backed by Visa and Mastercard receivables.
 
