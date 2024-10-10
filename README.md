@@ -189,3 +189,6 @@ Nosso "mega sonho" é diminuir o spread bancário brasileiro, nos próximos 10 a
 Lançamos dois MVP da MEGASONHO que estão publicados em: https://megasonho.com/ e https://www.megasonho.com.br/.
 
 Em um teste de stress da nossa plataforma WhatsApp em 2022, conseguimos realizar 1 milhão de cadastros de clientes em apenas 5 horas. O ChatGPT ganhou fama pois conseguiu realizar o mesmo feito somente em 7 dias.
+
+#PITCH DECK
+https://drive.google.com/drive/u/1/folders/1q2vADIKzZAzvIF0be2Z6tNRthtnDfIAf
