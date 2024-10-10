@@ -39,7 +39,7 @@ Nosso modelo de negócio é baseado na resolução 4.734/2019 do Banco Central d
 
 
 
-## REGRAS DE NEGÓCIO DO PROTOCOLO 20APY
+# REGRAS DE NEGÓCIO DO PROTOCOLO 20APY
 
 NOME DO PROTOCOLO: 20APY
 
@@ -64,7 +64,7 @@ Só pode enviar US20 para as carteiras SEED e MARKET.
 O envio dos tokens da carteira TREASURY para a carteira e MARKET será de maneira manual. Porém, sempre que for enviado uma quantidade para a carteira MARKET, 20% dessa quantidade será enviado para a carteira SEED.
 
 
-# CARTEIRA SEED
+## CARTEIRA SEED
 O propósito da carteira SEED é desenvolver o ecossistema, como por exemplo os programas REWARD e AWARD, também pagando outros serviços.
 
 Os programas REWARD e AWARD serão desenvolvidos em uma versão futura e será exclusivo nessa carteira, não impactando no protocolo principal.
@@ -88,6 +88,7 @@ Os programas REWARD e AWARD serão desenvolvidos em uma versão futura e será e
 Além dos programas REWARD e AWARD, existirão diversos outros programas com a finalidade de desenvolver o ecossistema.
 
 A gestão dos tokens dessa carteira é de responsabilidade do time da 20APY.
+
 
 
 ## CARTEIRA MARKET
@@ -118,6 +119,7 @@ Os tokens recebidos serão comercializados para fazermos os empréstimos para as
 
   ### RENDIMENTO
   20% APY, sempre que o cliente enviar o token, nós enviamos a quantidade total em US20, considerando 148.83200000% de rendimento. Para cada $1,000 recebido em token, entregamos 2488.32 em US20.
+
 
 
 ## CARTEIRA LOAN
@@ -153,12 +155,13 @@ AUDITORIA: Sim, por uma auditoria independente com o resultado publicado em noss
 
 REGULAÇÃO: Sim, vamos pedir autorização na SEC para fazer oferta para investidores americanos.
 
-ECOSSISTEMA DE INVESTIDORES
+
+## ECOSSISTEMA DE INVESTIDORES
 A 20APY possui dois tipos de investidores, os de participação acionária da empresa e os do token. 
 
 Sendo que o perfil dos investidores acionários são Venture Capital e Private Equity; já o perfil dos investidores do token são Institucionais, Investidores Qualificados e Investidores de Cripto.
 
 
-ECOSSISTEMA DE CREDORES
+## ECOSSISTEMA DE CREDORES
 A 20APY possui dois tipos de credores, os que fazem os de lastro e os de DeFi.
 Sendo que os que fazem lastro, são pequenas empresas brasileiras, que utilizamos os ativos recebidos na carteira MARKET como capital para financiar essas operações. Já os de DeFi, utilizam os tokens US20 para tomar crédito com garantia dos tokens.
