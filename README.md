@@ -37,82 +37,127 @@ Nos próximos 10 anos vamos conceder US$100 bilhões em crédito, para isso vamo
 
 Nosso modelo de negócio é baseado na resolução 4.734/2019 do Banco Central do Brasil, que estabelece condições e procedimentos para a realização de operações de desconto de recebíveis de arranjo de pagamento integrante do Sistema de Pagamentos Brasileiro.
 
+
+
 ## REGRAS DE NEGÓCIO DO PROTOCOLO 20APY
 
 NOME DO PROTOCOLO: 20APY
+
 NOME DO TOKEN: US20, será um protocolo de liquid staking, recebemos o ativo do cliente e enviamos nosso token.
+
 QUANTIDADE: 100,000,000,000 - Cem Bilhões
+
 DECIMAIS: 8 = 1.000000000
+
 CARTEIRA OFICIAIS: TREASURY, MARKET, SEED, LOAN.
+
 FEE: 1.00%, quando existir transferência entre carteiras que não seja oficial. O valor será enviado para a carteira SEED.
+
 SALDO OCULTO: Nas transações entre carteiras não oficiais, tornar oculto o saldo dos clientes na rede blockchain.
 
-# CARTEIRA TREASURY
+
+## CARTEIRA TREASURY
 Receberá 100% dos tokens US20 criados.
+
 Só pode enviar US20 para as carteiras SEED e MARKET.
+
 O envio dos tokens da carteira TREASURY para a carteira e MARKET será de maneira manual. Porém, sempre que for enviado uma quantidade para a carteira MARKET, 20% dessa quantidade será enviado para a carteira SEED.
 
 
 # CARTEIRA SEED
 O propósito da carteira SEED é desenvolver o ecossistema, como por exemplo os programas REWARD e AWARD, também pagando outros serviços.
+
 Os programas REWARD e AWARD serão desenvolvidos em uma versão futura e será exclusivo nessa carteira, não impactando no protocolo principal.
 
-  REWARD
+  ### REWARD
   25 US20 será enviado da carteira SEED para a carteira dos investidores quando existir uma confirmação de indicação completa.
 
-  AWARD
+  ### AWARD
   50,000 US20 será enviado da carteira SEED para a carteira dos clientes.
+  
   O sorteio é aleatório e automatizado pelo contrato inteligente do protocolo 20APY, existindo duas regras para que o sorteio aconteça: 
+  
   - 1,000,000 - um milhão de carteiras de clientes com no mínimo 25 US20.
+    
   - 50,000,000 - cinquenta milhões de tokens transferidos da carteira MARKET para a carteira dos clientes. 
 
   Sempre que sair cinquenta milhões de tokens da carteira MARKET para a carteira dos clientes, existirá um sorteio. Isso acontecerá de maneira infinita.
+  
   Só poderão participar do sorteio os clientes que tiverem em sua carteira 25 US20.
   
 Além dos programas REWARD e AWARD, existirão diversos outros programas com a finalidade de desenvolver o ecossistema.
+
 A gestão dos tokens dessa carteira é de responsabilidade do time da 20APY.
 
-# CARTEIRA MARKET
+
+## CARTEIRA MARKET
 Essa carteira receberá os tokens dos clientes e enviará os tokens US20. 
+
 Os tokens recebidos serão comercializados para fazermos os empréstimos para as pequenas empresas brasileiras e garantir o lastro do US20, depois serão enviados para os clientes investidores no processo de recompra do liquid staking.
 
-  RECOMPRA
+  ### RECOMPRA
   60 MESES. No processo de recompra o cliente nos enviará o valor em US20 entregue e nós faremos o câmbio para um ativo a escolha do cliente.
+  
   Se os ativos de pagamento da recompra for outra stablecoin, será pago o valor acrescido de juros do período e faremos uma simples conversão de US20 por USDC ou USDT.
+  
   Já se o ativo escolhido para o pagamento da recompra for SOL ou BTC, ou algum outro que não seja stablecoin com paridade em USD, faremos o pagamento na quantidade desse ativo com a cotação do dia da recompra.
+  
   Não consideramos o valor do ativo que não seja stablecoin no ato do staking, apenas no ato da recompra.
-  Vamos demonstrar no exemplo abaixo::
+  
+  Vamos demonstrar no exemplo abaixo:
+  
   Dia do Staking: 01/01/2025.
+  
   Ativo do Staking: SOL com o valor de 1 Sol valendo 50 USDC. Ele nos enviou 20 tokens SOL.
+  
   Dia da Recompra: 01/01/2030.
+  
   Ativo do Staking: SOL com o valor de 1 Sol valendo 100 USDC.
+  
   Nesse caso vamos ter que receber 2488.32 US20 e enviar 24.88320000 token SOL ou 2488.32 USDC.
 
-  RENDIMENTO
+  ### RENDIMENTO
   20% APY, sempre que o cliente enviar o token, nós enviamos a quantidade total em US20, considerando 148.83200000% de rendimento. Para cada $1,000 recebido em token, entregamos 2488.32 em US20.
 
-# CARTEIRA LOAN
+
+## CARTEIRA LOAN
 Possibilitamos os clientes que possuem US20 tomar empréstimo com uma taxa de juros zero em um prazo de 30 dias, posterior a isso será cobrado uma taxa de 3.00% ao mês, que é referente a 0.09722686% ao dia ou 42.57608868% ao ano.
+
 Se o cliente pagar o empréstimo no período de 30 dias, não pagará juros; porém se pagar no prazo superior, será considerado o prazo de isenção terá acréscimos de juros. 
+
 Exemplo, pagou o empréstimo no dia 31, será cobrado uma taxa de juros de =(valor do empréstimo)*31^0.09722686%. 
+
 Considerando que o cliente deixou 1,000.00000000 US20 como garantia e pegou 700.00000000 USDC como empréstimo, ele terá que pagar em 31 dias 721.40883751 em USDC ou será descontado, 21.40883751 US20, do saldo em garantia.
+
 Após o período de carência, a taxa de empréstimo será descontada diariamente do principal que está em garantia, sendo o seu limite para liquidação o valor disponibilizado em US20, exemplo os 700 USDC.
+
 Ou seja, diariamente será descontado 0.09722686% do saldo em garantia. No caso do exemplo, será descontado 0.680588 US20.
+
 Caso o cliente pague o empréstimo, ele terá acesso ao saldo deixado como garantia. 
+
 Fornecemos 70% do valor em empréstimo do valor em US20 deixado em garantia.
+
 OS VALORES DOS EMPRÉSTIMOS QUE FOREM LIQUIDADOS SERÃO ENVIADOS PARA A CARTEIRA SEED.
 
-# DEMAIS REGRAS
+
+## DEMAIS REGRAS
 OFERTA PRIMÁRIA: Investimento mínimo $1,000. Aceitaremos na oferta primária os ativos USDC, USDT, SOL e BTC.
+
 OFERTA SECUNDÁRIA: Livre
+
 PARIDADE: 1:1 em USD.
+
 LASTRO: Crédito, sendo auditado por uma auditoria independente.
+
 AUDITORIA: Sim, por uma auditoria independente com o resultado publicado em nosso site.
+
 REGULAÇÃO: Sim, vamos pedir autorização na SEC para fazer oferta para investidores americanos.
 
 ECOSSISTEMA DE INVESTIDORES
 A 20APY possui dois tipos de investidores, os de participação acionária da empresa e os do token. 
+
 Sendo que o perfil dos investidores acionários são Venture Capital e Private Equity; já o perfil dos investidores do token são Institucionais, Investidores Qualificados e Investidores de Cripto.
+
 
 ECOSSISTEMA DE CREDORES
 A 20APY possui dois tipos de credores, os que fazem os de lastro e os de DeFi.
