@@ -1,5 +1,5 @@
 # 20APY - HIGH-YIELD ALTERNATIVE INVESTMENT
-# EN
+### EN
 20APY is a DeFi startup that issues a stablecoin backed by Visa and Mastercard receivables.
 
 We stake with a yield of 20% per year, and use the capital to finance performed credit operations for small businesses.
@@ -18,7 +18,7 @@ In the next 10 years we will grant US$100 billion in credit, and to do so we wil
 
 Our business model is based on resolution 4,734/2019 of the Central Bank of Brazil, which establishes conditions and procedures for carrying out discount operations on payment arrangement receivables that are part of the Brazilian Payment System.
 
-# PT BR
+### PT BR
 20APY é uma startup DeFi, que emite uma stablecoin lastreada em recebíveis da Visa e Mastercard.
 
 Fazemos um staking com o rendimento em 20% ao ano, utilizamos o capital para financiar operações de crédito performado para pequenas empresas.
@@ -69,10 +69,10 @@ O propósito da carteira SEED é desenvolver o ecossistema, como por exemplo os 
 
 Os programas REWARD e AWARD serão desenvolvidos em uma versão futura e será exclusivo nessa carteira, não impactando no protocolo principal.
 
-  ### REWARD
+  #### REWARD
   25 US20 será enviado da carteira SEED para a carteira dos investidores quando existir uma confirmação de indicação completa.
 
-  ### AWARD
+  #### AWARD
   50,000 US20 será enviado da carteira SEED para a carteira dos clientes.
   
   O sorteio é aleatório e automatizado pelo contrato inteligente do protocolo 20APY, existindo duas regras para que o sorteio aconteça: 
@@ -96,7 +96,7 @@ Essa carteira receberá os tokens dos clientes e enviará os tokens US20.
 
 Os tokens recebidos serão comercializados para fazermos os empréstimos para as pequenas empresas brasileiras e garantir o lastro do US20, depois serão enviados para os clientes investidores no processo de recompra do liquid staking.
 
-  ### RECOMPRA
+  #### RECOMPRA
   60 MESES. No processo de recompra o cliente nos enviará o valor em US20 entregue e nós faremos o câmbio para um ativo a escolha do cliente.
   
   Se os ativos de pagamento da recompra for outra stablecoin, será pago o valor acrescido de juros do período e faremos uma simples conversão de US20 por USDC ou USDT.
@@ -117,7 +117,7 @@ Os tokens recebidos serão comercializados para fazermos os empréstimos para as
   
   Nesse caso vamos ter que receber 2488.32 US20 e enviar 24.88320000 token SOL ou 2488.32 USDC.
 
-  ### RENDIMENTO
+  #### RENDIMENTO
   20% APY, sempre que o cliente enviar o token, nós enviamos a quantidade total em US20, considerando 148.83200000% de rendimento. Para cada $1,000 recebido em token, entregamos 2488.32 em US20.
 
 
