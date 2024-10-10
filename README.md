@@ -165,3 +165,27 @@ Sendo que o perfil dos investidores acionários são Venture Capital e Private E
 ## ECOSSISTEMA DE CREDORES
 A 20APY possui dois tipos de credores, os que fazem os de lastro e os de DeFi.
 Sendo que os que fazem lastro, são pequenas empresas brasileiras, que utilizamos os ativos recebidos na carteira MARKET como capital para financiar essas operações. Já os de DeFi, utilizam os tokens US20 para tomar crédito com garantia dos tokens.
+
+
+
+# 20APY & MEGASONHO
+
+Nós utilizamos duas marcas a 20APY como nome da holding e MEGASONHO como marca comercial.
+
+A empresa 48.317.561/0001-45 MEGASONHO LTDA é proprietária dos domínios megasonho.com e megasonho.com.br, além de ser proprietária da marca mista no INPI nas classes 35 e 36; respectivamente sendo utilizadas para assessoria, consultoria e mercado financeiro.
+
+Pela estrutura do protocolo ter lógica de sorteio, ele ser realizado diversas vezes aleatoriamente, comercialmente é viral a marca MEGASONHO.
+
+O nome 20APY tem um significado muito forte para quem é do mercado financeiro tradicional ou de finanças descentralizadas.
+
+Twenty Annual Percentage Yield, ou simplesmente 20APY. Porém a marca MEGASONHO é comercial em português, ela é a realização de um sonho para nossos clientes, a prosperidade do negócio do empreendedor.
+
+Vamos utilizar boa parte dos 20% que serão transferidos para a carteira SEED, no desenvolvimento da marca em educação financeira com entretenimento.
+
+Temos como grande inspiração as ações de marcas como Red Bull, Nike, Mercado Livre e Nubank.
+
+Nosso "mega sonho" é diminuir o spread bancário brasileiro, nos próximos 10 anos vamos conceder US$100 bilhões em crédito, isso representa apenas 3% do mercado brasileiro nos dias atuais.
+
+Lançamos dois MVP da MEGASONHO que estão publicados em: https://megasonho.com/ e https://www.megasonho.com.br/.
+
+Em um teste de stress da nossa plataforma WhatsApp em 2022, conseguimos realizar 1 milhão de cadastros de clientes em apenas 5 horas. O ChatGPT ganhou fama pois conseguiu realizar o mesmo feito somente em 7 dias.
