@@ -1,5 +1,4 @@
 # HACKATHON SOLANA
->> Repositório exclusivo para o HACKATHON SOLANA. <<
 
 20APY é uma startup DeFi, que emite uma stablecoin lastreada em recebíveis da Visa e Mastercard.
 
