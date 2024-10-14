@@ -198,5 +198,12 @@ https://drive.google.com/drive/u/1/folders/1q2vADIKzZAzvIF0be2Z6tNRthtnDfIAf
 
 # BLOCKCHAIN
 
-TESTE:
-PRODUÇÃO:
+### TESTE:
+https://explorer.solana.com/address/FvoXDuwkr68cPNzEjLpjsXPxoj3k8YFCgCn1xS8wfZNE?cluster=devnet
+
+https://explorer.solana.com/address/7u9HGEC88hQodBQKV8bVaVwiZnQw7VYeM1FfrxXjDHhv?cluster=devnet
+
+https://solscan.io/token/FvoXDuwkr68cPNzEjLpjsXPxoj3k8YFCgCn1xS8wfZNE?cluster=devnet
+
+
+### PRODUÇÃO:
