@@ -1,5 +1,4 @@
-# 20APY | HIGH-YIELD ALTERNATIVE INVESTMENT
-### PT BR
+# 20APY - HIGH-YIELD ALTERNATIVE INVESTMENT
 20APY é uma startup DeFi, que emite uma stablecoin lastreada em recebíveis da Visa e Mastercard.
 
 Fazemos um staking com o rendimento em 20% ao ano, utilizamos o capital para financiar operações de crédito performado para pequenas empresas.
